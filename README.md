@@ -10,6 +10,6 @@ FOR ENG VISITORS.
 - it is a scammer posing as me as the developer of this extension. DON'T BELIEVE HIM
 ![SCAMMER](https://i.imgur.com/f6HK5BF.png)
 
-ONLY ME AND ONLY ME HAVE PRIVATE REPOSITORY WITH CURRENT VERSION FACEIT VISION 1.4.6
+ONLY ME AND ONLY I HAVE PRIVATE REPOSITORY WITH CURRENT VERSION FACEIT VISION 1.4.6
 
 ![GITHUB](https://i.imgur.com/imBdKOq.png)
