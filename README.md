@@ -1,5 +1,5 @@
-# РАСШИРЕНИЕ ПОФИКСИЛИ, ОНО БОЛЬШЕ НЕ РАБОТАЕТ!!!!!
-# EXTENSION FIX, IT DOESN'T WORK ANYMORE!!!!!
+## - РАСШИРЕНИЕ ПОФИКСИЛИ, ОНО БОЛЬШЕ НЕ РАБОТАЕТ!!!!!
+## - EXTENSION FIX, IT DOESN'T WORK ANYMORE!!!!!
 
 # FACEIT Vision - Old version 1.1.0
 
